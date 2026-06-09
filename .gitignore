@@ -1,0 +1,12 @@
+# AL extension build artifacts
+*.app
+.alpackages/
+*.app.zip
+*.symbols
+*.dlc
+
+# VS Code
+.vscode/
+
+# Snapshot debugging
+.snapshots/
