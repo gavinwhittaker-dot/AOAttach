@@ -9,7 +9,7 @@ pageextension 50102 AssemblyOrderDocAttachFBExt extends "Assembly Order"
     {
         addlast(FactBoxes)
         {
-            part(DocumentAttachmentDetails; "Document Attachment Details")
+            part(DocumentAttachmentFactBox; "Doc. Attachment List Factbox")
             {
                 ApplicationArea = All;
                 SubPageLink = "Document Type" = field("Document Type"), "No." = field("No.");
