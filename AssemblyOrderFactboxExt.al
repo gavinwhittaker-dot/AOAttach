@@ -1,4 +1,4 @@
-namespace DefaultPublisher.AOAttach;
+namespace Rapid365.AOAttach;
 
 using Microsoft.Assembly.Document;
 using Microsoft.Foundation.Attachment;
